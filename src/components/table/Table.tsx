@@ -1,10 +1,10 @@
-import { useState, useEffect } from "react";
-import axios from "axios";
+// import { useState, useEffect } from "react";
+// import axios from "axios";
 
 const API_URL = "https://api.publicapis.org/entries";
 
 const Table = () => {
-  const [APIs, setAPIs] = useState([]);
+//   const [APIs, setAPIs] = useState([]);
 
   //   useEffect(() => {
   //     const fetchData = async () => {
